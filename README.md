@@ -11,3 +11,5 @@ This program was written for the purpose of analysing 360° US DICOM phantom ima
 -Low contrast object detectability (LCOD)
 
 Depending on the construction of the phantom used the regions of interest will have to be modified.
+
+While every attempt has been made to ensure the program functions as expected and produces accurate results, users will need to staisfy themselves that this is the case.
